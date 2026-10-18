@@ -1,7 +1,6 @@
-
 # COVER PAGE
 # Student name: José Gonzalo Reyna Pérez
-# Student ID: José Gonzalo Reyna Pérez
+# Student ID: 2630022
 # Group: I.M 1-2
 # Assignment: Python Collections - Lists, Tuples, and Dictionaries
 
